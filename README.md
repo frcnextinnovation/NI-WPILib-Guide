@@ -127,6 +127,6 @@
 
     ![wpilib-main](https://github.com/FRCNextInnovation/NI-Environment-Guide/blob/main/assets/wpilib-main.png)
 
-5. Build程序模板(**一般会在第一次进入模板后自动执行**)，显示**"Build Successful"**之后即可继续编程，若出现**"Build Failed"**或**未出现成功字样**，则是环境搭建**出现问题**，请参照之前步骤寻找原因。
+5. Build程序模板(**一般会在第一次进入模板后自动执行**)，显示 **"Build Successful"** 之后即可继续编程，若出现 **"Build Failed"** 或 **未出现成功字样** ，则是环境搭建**出现问题**，请参照之前步骤寻找原因。
 
     ![build-robot-code](https://github.com/FRCNextInnovation/NI-Environment-Guide/blob/main/assets/build-robot-code.png)
