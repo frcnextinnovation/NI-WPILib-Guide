@@ -18,19 +18,19 @@
 
     - 右键管理员模式运行installer，点击**Start**开始安装。
 
-      ![installer-start](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/installer-start.png)
+      ![installer-start](https://github.com/FRCNextInnovation/NI-Environment-Guide/blob/main/assets/installer-start.png)
 
     - 点击 **Download VS Code for Single Install**
 
-      ![installer-vscode-download](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/installer-vscode-download.png)
+      ![installer-vscode-download](https://github.com/FRCNextInnovation/NI-Environment-Guide/blob/main/assets/installer-vscode-download.png)
 
     - 选择**Install for all User**，等待安装完成即可
 
-      ![installer-options](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/installer-options.png)
+      ![installer-options](https://github.com/FRCNextInnovation/NI-Environment-Guide/blob/main/assets/installer-options.png)
 
-      ![installer-installing](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/installer-installing.png)
+      ![installer-installing](https://github.com/FRCNextInnovation/NI-Environment-Guide/blob/main/assets/installer-installing.png)
 
-      ![installer-finish](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/installer-finish.png)
+      ![installer-finish](https://github.com/FRCNextInnovation/NI-Environment-Guide/blob/main/assets/installer-finish.png)
 
     > 注意: 你也可以选择单独下载VSCode，并在拓展市场里下载"WPILIB"插件以配置环境(不建议)
 
@@ -38,7 +38,7 @@
 
 5. 从桌面**新快捷方式**进入VSCode
 
-    ![vscode](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/vscode.png)
+    ![vscode](https://github.com/FRCNextInnovation/NI-Environment-Guide/blob/main/assets/vscode.png)
 
 ## 2. FRC其他重要程序的安装
 
@@ -50,33 +50,33 @@
 
     - 选择 **I accept the above license agreement**，并继续
 
-      ![ni-package-license](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/ni-package-license.png)
+      ![ni-package-license](https://github.com/FRCNextInnovation/NI-Environment-Guide/blob/main/assets/ni-package-license.png)
 
     - 选择取消掉Windows的快速启动，并继续
 
-      ![labview_fast_startup](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/labview_fast_startup.png)
+      ![labview_fast_startup](https://github.com/FRCNextInnovation/NI-Environment-Guide/blob/main/assets/labview_fast_startup.png)
 
     - 选择继续，等待安装完成
 
-      ![labview_package_manager_review](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/labview_package_manager_review.png)
+      ![labview_package_manager_review](https://github.com/FRCNextInnovation/NI-Environment-Guide/blob/main/assets/labview_package_manager_review.png)
 
-      ![ni-package-install](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/ni-package-install.png)
+      ![ni-package-install](https://github.com/FRCNextInnovation/NI-Environment-Guide/blob/main/assets/ni-package-install.png)
 
       > 注意: 在这一步安装的过程中可能会出现报错，并自动会跳到之前的安装界面，在这种情况下可以直接按照之前的选项继续安装下去，不用关掉软件重新启动，这种情况一般是由于服务器连接不稳定造成的。
 
     - 如果看到这个页面，请继续选择安装，接下来的步骤与之前一致
 
-      ![additional-software](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/additional-software.png)
+      ![additional-software](https://github.com/FRCNextInnovation/NI-Environment-Guide/blob/main/assets/additional-software.png)
 
-      ![labview_license_2](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/labview_license_2.png)
+      ![labview_license_2](https://github.com/FRCNextInnovation/NI-Environment-Guide/blob/main/assets/labview_license_2.png)
 
-      ![review-summary](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/review-summary.png)
+      ![review-summary](https://github.com/FRCNextInnovation/NI-Environment-Guide/blob/main/assets/review-summary.png)
 
-      ![detail-progress](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/detail-progress.png)
+      ![detail-progress](https://github.com/FRCNextInnovation/NI-Environment-Guide/blob/main/assets/detail-progress.png)
 
     - 重启以完成安装
 
-      ![installer-finish](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/installer-finish.png)
+      ![installer-finish](https://github.com/FRCNextInnovation/NI-Environment-Guide/blob/main/assets/installer-finish.png)
       
       > 注意: 使用离线版安装器可以避免服务器连接不良导致的安装失败，离线版本的安装器可以在同链接下载。
 
@@ -94,27 +94,27 @@
 
     - 选择对应的系统版本下载安装即可
 
-      ![phoenix-github](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/phoenix-github.png)
+      ![phoenix-github](https://github.com/FRCNextInnovation/NI-Environment-Guide/blob/main/assets/phoenix-github.png)
 
     [REV Lib](https://docs.revrobotics.com/sparkmax/rev-hardware-client/getting-started-with-the-rev-hardware-client)
 
     - 直接下载客户端安装即可
 
-      ![rev-hardware](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/rev-hardware.png)
+      ![rev-hardware](https://github.com/FRCNextInnovation/NI-Environment-Guide/blob/main/assets/rev-hardware.png)
 
     - 安装后打开**REV Hardware Client**
 
-      ![rev](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/rev.png)
+      ![rev](https://github.com/FRCNextInnovation/NI-Environment-Guide/blob/main/assets/rev.png)
 
     - 在**Downloads**界面下选择API下载即可
 
-      ![rev-hardware-downloads](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/rev-hardware-downloads.png)
+      ![rev-hardware-downloads](https://github.com/FRCNextInnovation/NI-Environment-Guide/blob/main/assets/rev-hardware-downloads.png)
 
     [Kauai Labs](https://pdocs.kauailabs.com/navx-mxp/software/roborio-libraries/)
 
     - 直接下载安装客户端即可
 
-      ![navx-lib](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/navx-lib.png)
+      ![navx-lib](https://github.com/FRCNextInnovation/NI-Environment-Guide/blob/main/assets/navx-lib.png)
 
 ## 3. 检验环境
 
@@ -125,8 +125,8 @@
 
 4. 参照以下设置创建一个New Command Base架构的程序模板。
 
-    ![wpilib-main](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/wpilib-main.png)
+    ![wpilib-main](https://github.com/FRCNextInnovation/NI-Environment-Guide/blob/main/assets/wpilib-main.png)
 
 5. Build程序模板(**一般会在第一次进入模板后自动执行**)，显示**"Build Successful"**之后即可继续编程，若出现**"Build Failed"**或**未出现成功字样**，则是环境搭建**出现问题**，请参照之前步骤寻找原因。
 
-    ![build-robot-code](https://github.com/FRCNextInnovation/NI-Programming-Guide/blob/main/assets/build-robot-code.png)
+    ![build-robot-code](https://github.com/FRCNextInnovation/NI-Environment-Guide/blob/main/assets/build-robot-code.png)
