@@ -1,7 +1,10 @@
 中文简体 | ...
+
 # NI 环境搭建指南
 
 [![Next-Innovation](https://img.shields.io/badge/Next-Innovation-blueviolet?style=flat)](https://github.com/FRCNextInnovation) [![Lang](https://img.shields.io/badge/Lang-zh--CN-Green?style=flat)]()
+
+<img src="./assets/Logo_Purple_Word_Transparent.png" alt="Logo_Purple_Word_Transparent" style="zoom: 33%;" >
 
 ## FRC官方库与VSCode安装指南
 
@@ -19,11 +22,11 @@
 
     - 右键管理员模式运行installer，点击**Start**开始安装。
 
-      <img src="./assets/installer-start.png" alt="installer-start">
+      <img src="./assets/installer-start.png" alt="installer-start"/>
 
     - 点击 **Download VS Code for Single Install**
 
-      <img src="./assets/installer-vscode-download.png" alt="installer-vscode-download">
+      <img src="./assets/installer-vscode-download.png" alt="installer-vscode-download"/>
 
     - 选择**Install for all User**，等待安装完成即可
 
