@@ -8,11 +8,11 @@
 
 ## FRC官方库与VSCode安装指南
 
-1. 进入 **FRC编程手册**官网。
+1. 进入 **FRC编程手册**官网(此步可忽略，直接进入第三步)。
 
     [FIRST Robotics Competition Control System](https://docs.wpilib.org/en/stable/index.html)
 
-2. 进入 **WPILib Installation Guide** (路径：ZERO TO ROBOT/Step 2: Installing Software/WPILib Installation Guide)
+2. 进入 **WPILib Installation Guide** (此步可忽略，直接进入第三步)(路径：ZERO TO ROBOT/Step 2: Installing Software/WPILib Installation Guide)
 
     [WPILib Installation Guide](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/wpilib-setup.html)
 
@@ -111,7 +111,7 @@
     
       <img src="./assets/rev.png" alt="rev">
     
-    - 在**Downloads**界面下选择API下载即可
+    - 在**Downloads**界面下选择API下载即可(注意：2021年以后API将随REV客户端的安装自动安装)
     
       <img src="./assets/rev-hardware-downloads.png" alt="rev-hardware-downloads">
     
