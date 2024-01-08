@@ -89,13 +89,13 @@
 
     用于：**设置无线路由器**
 
-    [FRC Radio Configuration 20.0.0](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-3/radio-programming.html)
+    [FRC Radio Configuration 24.0.1](https://firstfrc.blob.core.windows.net/frc2024/Radio/FRC_Radio_Configuration_24_0_1.zip)
     
 3. **第三方库**(路径：VS Code Overview/3rd Party Libraries)
 
     用于：配置使用Spark Max 和 Talon FX等电调或NavX等传感器。
 
-    [CTRE Phoenix Framework](https://github.com/CrossTheRoadElec/Phoenix-Releases/releases)
+    [Phoenix Tuner X](https://pro.docs.ctr-electronics.com/en/stable/docs/tuner/index.html)
 
     - 选择对应的系统版本下载安装即可
 
