@@ -97,9 +97,7 @@
 
     [Phoenix Tuner X](https://pro.docs.ctr-electronics.com/en/stable/docs/tuner/index.html)
 
-    - 选择对应的系统版本下载安装即可
-
-      <img src="./assets/phoenix-github.png" alt="phoenix-github">
+    - 在微软商店内下载即可
 
     [REV Lib](https://docs.revrobotics.com/sparkmax/rev-hardware-client/getting-started-with-the-rev-hardware-client)
     
