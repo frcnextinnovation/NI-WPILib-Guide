@@ -51,7 +51,7 @@
 
     包含： **LabVIEW Update**, **FRC Driver Station**, **FRC Utilities**( 比如**roboRIO Imaging Tool**)
 
-    [FRC Game Tools](https://www.ni.com/en-us/support/downloads/drivers/download.frc-game-tools.html#369633)
+    [FRC Game Tools](https://packages.wpilib.workers.dev/game-tools/ni-frc-2024-game-tools_24.0.0_offline.iso)
 
     - 选择 **I accept the above license agreement**，并继续
 
