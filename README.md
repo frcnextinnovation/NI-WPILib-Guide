@@ -115,11 +115,6 @@
     
       <img src="./assets/rev-hardware-downloads.png" alt="rev-hardware-downloads">
     
-    [Kauai Labs](https://pdocs.kauailabs.com/navx-mxp/software/roborio-libraries/)
-    
-    - 直接下载安装客户端即可
-    
-      <img src="./assets/navx-lib.png" alt="navx-lib">
 
 
 ## 3. 检验环境
