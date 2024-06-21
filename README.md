@@ -1,63 +1,71 @@
 中文简体 | ...
 
-# NI 环境搭建指南
+# NI 环境搭建指南 (WPILib)
 
-[![Next-Innovation](https://img.shields.io/badge/Next-Innovation-blueviolet?style=flat)](https://github.com/FRCNextInnovation) [![Lang](https://img.shields.io/badge/Lang-zh--CN-Green?style=flat)]()
+[![Next-Innovation](https://img.shields.io/badge/Next-Innovation-blueviolet?style=flat)](https://github.com/FRCNextInnovation) [![Lang](https://img.shields.io/badge/Lang-zh--CN-Green?style=flat)]() [![Lang](https://img.shields.io/badge/Ver-2024.7-blue?style=flat)]()
 
 <img src="./assets/Logo_Purple_Word_Transparent.png" alt="Logo_Purple_Word_Transparent" style="zoom: 33%;" >
 
-## FRC官方库与VSCode安装指南
+## WPILIB VSCode 安装指南
 
-1. 进入 **FRC编程手册**官网(此步可忽略，直接进入第三步)。
+### 从 WPILib Docs 下载
 
-    [FIRST Robotics Competition Control System](https://docs.wpilib.org/en/stable/index.html)
+1. 进入 **FRC 编程手册**官网
 
-2. 进入 **WPILib Installation Guide** (此步可忽略，直接进入第三步)(路径：ZERO TO ROBOT/Step 2: Installing Software/WPILib Installation Guide)
+    [docs.wpilib.org](https://docs.wpilib.org/en/stable/index.html)
+
+2. 进入 **WPILib Installation Guide**
 
     [WPILib Installation Guide](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/wpilib-setup.html)
 
-3. 参照**页面内容**直接从Github下载对应自己系统版本的**最新完整压缩包**(**建议做法**)。
+### 从 GitHub 下载
+
+1. 进入 allwpilib GitHub 仓库
+
+    [wpilibsuite/allwpilib](https://github.com/wpilibsuite/allwpilib)
+
+2. 在 Releases 页面选择对应版本镜像下载
 
     [wpilibsuite/allwpilib/releases](https://github.com/wpilibsuite/allwpilib/releases)
 
-    - 右键管理员模式运行installer，点击**Start**开始安装。
+### 安装
 
-      <img src="./assets/installer-start.png" alt="installer-start"/>
+1. 右键管理员模式运行 Installer，点击 **Start **开始安装
 
-    - 点击 **Download VS Code for Single Install**
+    <img src="./assets/installer-start.png" alt="installer-start"/>
 
-      <img src="./assets/installer-vscode-download.png" alt="installer-vscode-download"/>
+2. 点击 **Download VS Code for Single Install** (推荐)
 
-    - 选择**Install for all User**，等待安装完成即可
+    <img src="./assets/installer-vscode-download.png" alt="installer-vscode-download"/>
 
-      <img src="./assets/installer-options.png" alt="installer-options">
+3. 选择 **Install for all User**，等待安装完成即可
 
-      <img src="./assets/installer-installing.png" alt="installer-installing">
-      
-      <img src="./assets/installer-finish.png" alt="installer-finish">
+    <img src="./assets/installer-options.png" alt="installer-options">
 
-    > 注意: 你也可以选择单独下载VSCode，并在拓展市场里下载"WPILIB"插件以配置环境(不建议)
+    <img src="./assets/installer-installing.png" alt="installer-installing">
+    
+    <img src="./assets/installer-finish.png" alt="installer-finish">
 
-4. 压缩包解压完毕后管理员模式下运行安装器, 选择**All User**, 从**安装器内直接下载VSCode**，参照默认设置完整安装(**建议做法**) 。
+    > 注意: 你也可以选择在独立安装的 VSCode 插件市场上安装 WPILib 插件
 
-5. 从桌面**新快捷方式**进入VSCode
+5. 从桌面**快捷方式**启动 VSCode
 
     <img src="./assets/vscode.png" alt="vscode">
-    
+
 
 ## 2. FRC其他重要程序的安装
 
-1. **FRC Game Tools** (路径：ZERO TO ROBOT/Step 2: Installing Software/Installing the FRC Game Tools)
+1. **FRC Game Tools**
 
-    包含： **LabVIEW Update**, **FRC Driver Station**, **FRC Utilities**( 比如**roboRIO Imaging Tool**)
+    包含: **LabVIEW Update**, **FRC Driver Station**, **FRC Utilities**(如 **roboRIO Imaging Tool**)
 
-    [FRC Game Tools](https://packages.wpilib.workers.dev/game-tools/ni-frc-2024-game-tools_24.0.0_offline.iso)
+    [FRC Game Tools](https://download.ni.com/support/nipkg/products/ni-f/ni-frc-2024-game-tools/24.0/offline/ni-frc-2024-game-tools_24.0.2_offline.iso)
 
     - 选择 **I accept the above license agreement**，并继续
 
       <img src="./assets/ni-package-license.png" alt="ni-package-license">
 
-    - 选择取消掉Windows的快速启动，并继续
+    - 选择取消掉 Windows 的快速启动，并继续
 
       <img src="./assets/labview_fast_startup.png" alt="labview_fast_startup">
 
@@ -67,7 +75,7 @@
 
       <img src="./assets/ni-package-install.png" alt="ni-package-install">
 
-      > 注意: 在这一步安装的过程中可能会出现报错，并自动会跳到之前的安装界面，在这种情况下可以直接按照之前的选项继续安装下去，不用关掉软件重新启动，这种情况一般是由于服务器连接不稳定造成的。
+      > 注意: 在这一步安装的过程中可能会出现报错，并自动跳到之前的安装界面，在这种情况下可以直接按照之前的选项继续安装，不用重新启动软件，这种情况一般是由于服务器连接不稳定造成的。
 
     - 如果看到这个页面，请继续选择安装，接下来的步骤与之前一致
 
@@ -85,31 +93,31 @@
       
       > 注意: 使用离线版安装器可以避免服务器连接不良导致的安装失败，离线版本的安装器可以在同链接下载。
 
-2. **FRC Radio Configuration** (路径：Step 3: Preparing Your Robot/Programming your Radio)
+2. **FRC Radio Configuration**
 
-    用于：**设置无线路由器**
+    用于：**配置机器人路由**
 
     [FRC Radio Configuration 24.0.1](https://firstfrc.blob.core.windows.net/frc2024/Radio/FRC_Radio_Configuration_24_0_1.zip)
     
-3. **第三方库**(路径：VS Code Overview/3rd Party Libraries)
+3. **第三方**供应商
 
-    用于：配置使用Spark Max 和 Talon FX等电调或NavX等传感器。
+    用于：配置使用 CTRE 和 REV 等供应商产品
 
-    [Phoenix Tuner X](https://pro.docs.ctr-electronics.com/en/stable/docs/tuner/index.html)
+    [Phoenix Tuner X](https://github.com/CrossTheRoadElec/Phoenix-Releases/releases)
 
-    - 在微软商店内下载即可
+    - 在 CTRE Phoenix GitHub Releases 下载
 
-    [REV Lib](https://docs.revrobotics.com/sparkmax/rev-hardware-client/getting-started-with-the-rev-hardware-client)
+    [REV Hardware Client](https://docs.revrobotics.com/sparkmax/rev-hardware-client/getting-started-with-the-rev-hardware-client)
     
-    - 直接下载客户端安装即可
+    - 在 REV Docs 下载
     
       <img src="./assets/rev-hardware.png" alt="rev-hardware">
     
-    - 安装后打开**REV Hardware Client**
+    - 安装后打开 **REV Hardware Client**
     
       <img src="./assets/rev.png" alt="rev">
     
-    - 在**Downloads**界面下选择API下载即可(注意：2021年以后API将随REV客户端的安装自动安装)
+    - 在 **Downloads** 界面下选择API下载即可(注意：2021年以后API将随REV客户端的安装自动安装)
     
       <img src="./assets/rev-hardware-downloads.png" alt="rev-hardware-downloads">
     
@@ -117,16 +125,16 @@
 
 ## 3. 检验环境
 
-1. 进入**安装好 WPILib插件** 的VSCode。
+1. 进入**安装了 WPILib插件** 的 VSCode
 
-2. 从右上角 **W状图标** 处启动插件。
+2. 从右上角 **W 图标** 处启动插件。
 
-3. 选择 "**新建一个项目**" (Create a new project)。
+3. 选择 "**新建一个项目**" (Create a new project)
 
-4. 参照以下设置创建一个New Command Base架构的程序模板。
+4. 参照以下设置创建 Command Base 程序模板
 
     <img src="./assets/wpilib-main.png" alt="wpilib-main">
 
-5. Build程序模板(**一般会在第一次进入模板后自动执行**)，显示 **"Build Successful"** 之后即可继续编程，若出现 **"Build Failed"** 或 **未出现成功字样** ，则是环境搭建**出现问题**，请参照之前步骤寻找原因。
+5. Build 程序(**一般会在第一次进入模板后自动执行**)，显示 **"Build Successful"** 即代表环境搭建完成，若出现 **"Build Failed"** 或 **其他字样** ，则是环境搭建**出现问题**，请参照之前步骤寻找原因
 
     <img src="./assets/build-robot-code.png" alt="build-robot-code">
