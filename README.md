@@ -107,7 +107,7 @@
 
     - 在 CTRE Phoenix GitHub Releases 下载
 
-    [REV Hardware Client](https://docs.revrobotics.com/sparkmax/rev-hardware-client/getting-started-with-the-rev-hardware-client)
+    [REV Hardware Client](https://docs.revrobotics.com/rev-hardware-client)
     
     - 在 REV Docs 下载
     
