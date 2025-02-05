@@ -2,12 +2,10 @@
 
 <div align="center">
 
+<img src="./assets/nextinnovation.png" alt="nextinnovation" width="440">
 [![Next-Innovation](https://img.shields.io/badge/Next-Innovation-blueviolet?style=for-the-badge)](https://github.com/FRCNextInnovation)
 [![Lang](https://img.shields.io/badge/Lang-en--US-Green?style=for-the-badge)]()
 [![Date](https://img.shields.io/badge/Date-2025.1.31-blue?style=for-the-badge)]()
-
-<img src="./assets/nextinnovation.png" alt="nextinnovation" width="300">
-
 </div>
 
 ## 📝 Introduction
