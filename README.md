@@ -3,11 +3,9 @@
 <div align="center">
 
 <img src="./assets/nextinnovation.png" alt="nextinnovation" width="440">
-
 [![Next-Innovation](https://img.shields.io/badge/Next-Innovation-blueviolet?style=for-the-badge)](https://github.com/FRCNextInnovation)
 [![Lang](https://img.shields.io/badge/Lang-en--US-Green?style=for-the-badge)]()
 [![Date](https://img.shields.io/badge/Date-2025.1.31-blue?style=for-the-badge)]()
-
 </div>
 
 ## 📝 Introduction
@@ -40,7 +38,7 @@ A comprehensive collection of essential software resources for NI core developme
     <td align="center"><b>FRC Game Tools</b></td>
     <td align="center">2025 Patch 1</td>
     <td align="center"><a href="https://www.ni.com/zh-cn/support/downloads/drivers/download.frc-game-tools.html">🔗</a></td>
-    <td align="center">N/A</td>
+    <td align="center"><a href="https://download.ni.com/support/nipkg/products/ni-f/ni-frc-2025-game-tools/25.0/offline/ni-frc-2025-game-tools_25.0.1_offline.iso">📥</a></td>
     <td align="center">N/A</td>
   </tr>
   <tr>
