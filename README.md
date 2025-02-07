@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://nifornextinnovation.com/image/NILogo.svg" alt="nextinnovation" width="452" style="filter: invert(33%) sepia(29%) saturate(1080%) hue-rotate(217deg) brightness(87%) contrast(88%); margin-left: -4px;">
+<img src="https://nifornextinnovation.com/image/NILogo-643D73.svg" alt="nextinnovation" width="452" style="margin-left: -4px;">
 
 [![Next-Innovation](https://img.shields.io/badge/Next-Innovation-blueviolet?style=for-the-badge)](https://github.com/FRCNextInnovation)
 [![Lang](https://img.shields.io/badge/Lang-en--US-Green?style=for-the-badge)]()
