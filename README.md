@@ -6,7 +6,7 @@
 
 [![Next-Innovation](https://img.shields.io/badge/Next-Innovation-blueviolet?style=for-the-badge)](https://github.com/FRCNextInnovation)
 [![Lang](https://img.shields.io/badge/Lang-en--US-Green?style=for-the-badge)]()
-[![Date](https://img.shields.io/badge/Date-2025.2.4-blue?style=for-the-badge)]()
+[![Date](https://img.shields.io/badge/Date-2025.2.13-blue?style=for-the-badge)]()
 </div>
 
 ## 📝 Introduction
@@ -50,7 +50,7 @@ A comprehensive collection of essential software resources for NI core developme
   </tr>
   <tr>
     <td align="center"><b>Phoenix6</b></td>
-    <td align="center">25.2.1</td>
+    <td align="center">25.2.2</td>
     <td align="center"><a href="https://github.com/CrossTheRoadElec/Phoenix-Releases/releases">🔗</a></td>
     <td align="center"><a href="https://github.com/CrossTheRoadElec/Phoenix-Releases/releases/download/v25.2.2/Phoenix-Offline_v25.2.2.exe">📥</a></td>
     <td align="center"><a href="https://maven.ctr-electronics.com/release/com/ctre/phoenix6/latest/Phoenix6-frc2025-latest.json">📦</a></td>
