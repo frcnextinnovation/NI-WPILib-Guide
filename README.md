@@ -88,9 +88,9 @@ A comprehensive collection of essential software resources for NI core developme
   </tr>
   <tr>
     <td align="center"><b>Choreo</b></td>
-    <td align="center">2025.0.2</td>
+    <td align="center">2025.0.3</td>
     <td align="center"><a href="https://github.com/SleipnirGroup/Choreo/releases">🔗</a></td>
-    <td align="center"><a href="https://github.com/SleipnirGroup/Choreo/releases/download/v2025.0.2/Choreo-v2025.0.2-Windows-x86_64-setup.exe">📥</a></td>
+    <td align="center"><a href="https://github.com/SleipnirGroup/Choreo/releases/download/v2025.0.3/Choreo-v2025.0.3-Windows-x86_64-setup.exe">📥</a></td>
     <td align="center"><a href="https://lib.choreo.autos/dep/ChoreoLib2025.json">📦</a></td>
   </tr>
   <tr>
