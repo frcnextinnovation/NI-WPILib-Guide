@@ -6,7 +6,7 @@
 
 [![Next-Innovation](https://img.shields.io/badge/Next-Innovation-blueviolet?style=for-the-badge)](https://github.com/FRCNextInnovation)
 [![Lang](https://img.shields.io/badge/Lang-en--US-Green?style=for-the-badge)]()
-[![Date](https://img.shields.io/badge/Date-2025.2.13-blue?style=for-the-badge)]()
+[![Date](https://img.shields.io/badge/Date-2025.2.14-blue?style=for-the-badge)]()
 </div>
 
 ## 📝 Introduction
@@ -95,9 +95,9 @@ A comprehensive collection of essential software resources for NI core developme
   </tr>
   <tr>
     <td align="center"><b>Elastic</b></td>
-    <td align="center">2025.0.2</td>
+    <td align="center">2025.1.0</td>
     <td align="center"><a href="https://github.com/Gold872/elastic-dashboard/releases">🔗</a></td>
-    <td align="center"><a href="https://github.com/Gold872/elastic-dashboard/releases/download/v2025.0.2/elastic-setup-windows.exe">📥</a></td>
+    <td align="center"><a href="https://github.com/Gold872/elastic-dashboard/releases/download/v2025.1.0/elastic-setup-windows.exe">📥</a></td>
     <td align="center"><a href="https://github.com/Gold872/elastic-dashboard/blob/main/elasticlib/Elastic.java">📦</a></td>
   </tr>
   <tr>
