@@ -6,7 +6,7 @@
 
 [![Next-Innovation](https://img.shields.io/badge/Next-Innovation-blueviolet?style=for-the-badge)](https://github.com/FRCNextInnovation)
 [![Lang](https://img.shields.io/badge/Lang-en--US-Green?style=for-the-badge)]()
-[![Date](https://img.shields.io/badge/Date-2025.2.14-blue?style=for-the-badge)]()
+[![Date](https://img.shields.io/badge/Date-2025.2.17-blue?style=for-the-badge)]()
 </div>
 
 ## 📝 Introduction
@@ -33,9 +33,9 @@ A comprehensive collection of essential software resources for NI core developme
   </tr>
   <tr>
     <td align="center"><b>WPILib</b></td>
-    <td align="center">2025.2.1</td>
+    <td align="center">2025.3.1</td>
     <td align="center"><a href="https://github.com/wpilibsuite/allwpilib/releases">🔗</a></td>
-    <td align="center"><a href="https://packages.wpilib.workers.dev/installer/v2025.2.1/Win64/WPILib_Windows-2025.2.1.iso">📥</a></td>
+    <td align="center"><a href="https://packages.wpilib.workers.dev/installer/v2025.3.1/Win64/WPILib_Windows-2025.3.1.iso">📥</a></td>
     <td align="center">N/A</td>
   </tr>
   <tr>
@@ -64,9 +64,9 @@ A comprehensive collection of essential software resources for NI core developme
   </tr>
   <tr>
     <td align="center"><b>REV Hardware Client</b></td>
-    <td align="center">1.7.1</td>
+    <td align="center">1.7.3</td>
     <td align="center"><a href="https://docs.revrobotics.com/rev-hardware-client">🔗</a></td>
-    <td align="center"><a href="https://github.com/REVrobotics/REV-Software-Binaries/releases/download/rhc-1.7.1/REV-Hardware-Client-Setup-1.7.1-offline-FRC-2025-01-24.exe">📥</a></td>
+    <td align="center"><a href="https://github.com/REVrobotics/REV-Software-Binaries/releases/download/rhc-1.7.3/REV-Hardware-Client-Setup-1.7.3.exe">📥</a></td>
     <td align="center">N/A</td>
   </tr>
   <tr>
