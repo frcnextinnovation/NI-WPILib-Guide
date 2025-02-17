@@ -102,10 +102,10 @@ A comprehensive collection of essential software resources for NI core developme
   </tr>
   <tr>
     <td align="center"><b>Advantage Kit</b></td>
-    <td align="center">4.1.0</td>
+    <td align="center">4.1.1</td>
     <td align="center"><a href="https://github.com/Mechanical-Advantage/AdvantageKit/releases">🔗</a></td>
     <td align="center">N/A</td>
-    <td align="center"><a href="https://github.com/Mechanical-Advantage/AdvantageKit/releases/download/v4.1.0/AdvantageKit.json">📦</a></td>
+    <td align="center"><a href="https://github.com/Mechanical-Advantage/AdvantageKit/releases/download/v4.1.1/AdvantageKit.json">📦</a></td>
   </tr>
   <tr>
     <td align="center"><b>Advantage Scope</b></td>
